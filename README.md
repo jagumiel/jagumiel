@@ -9,8 +9,8 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - Sharing updates on <a href="https://www.linkedin.com/in/jose-ángel-gumiel-quintana">LinkedIn</a>
 
 ## Need more hints?
-- 🔭 I’m currently working on embedded programming. I have created a repository for a fast kickstart with <a href="https://github.com/jagumiel/Cypress-PSoC4
-/">Cypress PSoC 4200</a> platform.
+- 🔭 Lately, I have been working on <a href="https://github.com/jagumiel/Artificial-Intelligence">Artificial Intelligence</a> (AI) at the edge. I have used Python, Tensorflow 2 framework and the Google Coral platform, an embedded device with an EDGE TPU.
+- 💎 My expertise is on embedded programming. I have created a repository for a fast kickstart with <a href="https://github.com/jagumiel/Cypress-PSoC4/">Cypress PSoC 4200</a> platform.
 - 🌱 I’m currently learning Automotive Electronics. I am developing some code examples using the <a href="https://github.com/jagumiel/LIN-Automotive">LIN Protocol</a>, but I still learning about MISRA C coding standards and the automotive strict normatives and standards. Another thing I am learning is <a href="https://github.com/jagumiel/Learning-LaTeX/">LaTeX</a>.
 - 💬 Ask me about analog and digital audio, FPGAs, communication protocols, electronics, hardware and anything you want. If I can help, I will share my knowledge with you.
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
