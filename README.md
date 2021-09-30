@@ -15,6 +15,8 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 💬 Ask me about analog and <a href="https://github.com/jagumiel/Guitar-Pedal-Effects-on-FPGA">digital audio</a>, FPGAs, <a href="https://github.com/jagumiel/VHDL-Basics">VHDL</a>, communication protocols, <a href="https://github.com/jagumiel/Data-Acquisition">data acquisition</a>, electronics, hardware and anything you want. If I can help, I will share my knowledge with you.
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
 
+
+
 <!--
 **jagumiel/jagumiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,4 +31,14 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/kub0x">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=9&theme=algolia"/>
+</a>
+</p>
+
 -->
