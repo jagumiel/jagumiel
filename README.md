@@ -16,7 +16,6 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
 
 
-
 <!--
 **jagumiel/jagumiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,14 +30,14 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jagumiel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=9&theme=algolia"/>
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=20&theme=algolia&hide=pawn,tcl,verilog,systemverilog,assembly"/>
 </a>
 </p>
+
 
 -->
