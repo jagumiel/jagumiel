@@ -35,7 +35,7 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/kub0x">
+<a href="https://github.com/jagumiel">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=9&theme=algolia"/>
 </a>
