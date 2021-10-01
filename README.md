@@ -15,6 +15,15 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 💬 Ask me about analog and <a href="https://github.com/jagumiel/Guitar-Pedal-Effects-on-FPGA">digital audio</a>, FPGAs, <a href="https://github.com/jagumiel/VHDL-Basics">VHDL</a>, communication protocols, <a href="https://github.com/jagumiel/Data-Acquisition">data acquisition</a>, electronics, hardware and anything you want. If I can help, I will share my knowledge with you.
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
 
+### ⚙️ GitHub Analytics
+This are my main languages, it's right. Anyway, don't trust this information completely yet, because I am trying to ignore the all the _C_ auto-generated code from my repositories. The language I use the most is _C_, but others like _VHDL_ or even _Java_ should have had more relevance than which I am showing at this momment.
+
+<p align="center">
+<a href="https://github.com/jagumiel">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=10&theme=algolia&hide=assembly,openedge abl,makefile"/>
+</a>
+</p>
 
 <!--
 **jagumiel/jagumiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +43,8 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 
 <p align="center">
 <a href="https://github.com/jagumiel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=20&theme=algolia&hide=pawn,tcl,verilog,systemverilog,assembly"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=10&theme=algolia&hide=assembly,openedge abl,makefile"/>
 </a>
 </p>
 
