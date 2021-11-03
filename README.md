@@ -15,6 +15,10 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 💬 Ask me about analog and <a href="https://github.com/jagumiel/Guitar-Pedal-Effects-on-FPGA">digital audio</a>, FPGAs, <a href="https://github.com/jagumiel/VHDL-Basics">VHDL</a>, communication protocols, <a href="https://github.com/jagumiel/Data-Acquisition">data acquisition</a>, electronics, hardware and anything you want. If I can help, I will share my knowledge with you.
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
 
+### 📚 Published Papers
+So far I have only published one article that is available in Open Access. I hope it will be the first in a list.
+- 📄 <a href="https://doi.org/10.6036/10145">New generation of automotive mechanical and electronic components: technological challenges for suppliers.</a>
+
 ### ⚙️ GitHub Analytics
 This are my main languages, it's right. Anyway, don't trust this information completely yet, because I am trying to ignore the all the _C_ auto-generated code from my repositories. The language I use the most is _C_, but others like _VHDL_ or even _Java_ should have had more relevance than which I am showing at this momment.
 
