@@ -9,6 +9,7 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - Sharing updates on <a href="https://www.linkedin.com/in/jose-ángel-gumiel-quintana">LinkedIn</a>
 
 ## Need more hints?
+- 🔌 In the last months I have been working with Altium, I have a <a href="https://github.com/jagumiel/Circuits/tree/master/AltiumProjects">repository</a> with some hardware development projects.
 - 🔭 Lately, I have been working on <a href="https://github.com/jagumiel/Artificial-Intelligence">Artificial Intelligence</a> (AI) at the edge. I have used Python, Tensorflow 2 framework and the Google Coral platform, an embedded device with an EDGE TPU.
 - 💎 My expertise is on embedded programming. I have created a repository for a fast kickstart with <a href="https://github.com/jagumiel/Cypress-PSoC4/">Cypress PSoC 4200</a> platform.
 - 🌱 I’m currently learning Automotive Electronics. I am developing some code examples using the <a href="https://github.com/jagumiel/LIN-Automotive">LIN Protocol</a>, but I still learning about MISRA C coding standards and the automotive strict normatives and standards. Another thing I am learning is <a href="https://github.com/jagumiel/Learning-LaTeX/">LaTeX</a>.
@@ -16,8 +17,9 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
 
 ### 📚 Published Papers
-So far I have only published one article that is available in Open Access. I hope it will be the first in a list.
+I have published two articles in Open Access. Hope to continue writing and sharing my research:
 - 📄 <a href="https://doi.org/10.6036/10145">New generation of automotive mechanical and electronic components: technological challenges for suppliers.</a>
+- 📄 <a href="https://doi.org/10.3390/businesses2020018"> Introducing the Electronic Knowledge Framework into the Traditional Automotive Suppliers’ Industry: From Mechanical Engineering to Mechatronics .</a>
 
 ### ⚙️ GitHub Analytics
 This are my main languages, it's right. Anyway, don't trust this information completely yet, because I am trying to ignore the all the _C_ auto-generated code from my repositories. The language I use the most is _C_, but others like _VHDL_ or even _Java_ should have had more relevance than which I am showing at this momment.
