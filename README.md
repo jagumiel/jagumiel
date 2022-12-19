@@ -25,9 +25,10 @@ I have published two articles in Open Access. Hope to continue writing and shari
 This are my main languages, it's right. Anyway, don't trust this information completely yet, because I am trying to ignore the all the _C_ auto-generated code from my repositories. The language I use the most is _C_, but others like _VHDL_ or even _Java_ should have had more relevance than which I am showing at this momment.
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=10&theme=algolia&hide=assembly,openedge%20abl,makefile">
-  
+<a href="https://github.com/jagumiel">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jagumiel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jagumiel&layout=compact&langs_count=10&theme=algolia&hide=assembly,openedge%20abl,makefile">
+</a>
 </p>
 
 <!--
