@@ -20,6 +20,7 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 I have published two articles in Open Access. Hope to continue writing and sharing my research:
 - 📄 <a href="https://doi.org/10.6036/10145">New generation of automotive mechanical and electronic components: technological challenges for suppliers.</a>
 - 📄 <a href="https://doi.org/10.3390/businesses2020018"> Introducing the Electronic Knowledge Framework into the Traditional Automotive Suppliers’ Industry: From Mechanical Engineering to Mechatronics.</a>
+- 📄 <a href="https://www.thinkmind.org/articles/vehicular_2023_1_90_30035.pdf"> A Holistic Approach on Automotive Cybersecurity for Suppliers.</a>
 
 ### ⚙️ GitHub Analytics
 This are my main languages, it's right. Anyway, don't trust this information completely yet, because I am trying to ignore the all the _C_ auto-generated code from my repositories. The language I use the most is _C_, but others like _VHDL_ or even _Java_ should have had more relevance than which I am showing at this momment.
