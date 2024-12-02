@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Alt text](https://jagumiel.xyz/images/front/banner.jpg?raw=true "Personal Banner")
-I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic Systems and PhD Student in Electronics and Communications, in the field of Automotive Electronics.
+I am Jose Ángel Gumiel, PhD in Electronics and Communications (in the field of Automotive Electronics), MsC in Advanced Electronic Systems and BsC in Computer Engineering.
 
 ## Do you want to know more about me or my projects? Find me around the web! 🌎:
 - <a href="https://jagumiel.xyz/">Personal website</a>. Don't forget to take a look at the <a href="https://jagumiel.xyz/blog/">blog</a> section! 
