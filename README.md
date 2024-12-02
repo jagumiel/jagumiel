@@ -17,11 +17,15 @@ I am Jose Ángel Gumiel, BsC in Computer Engineering, MsC in Advanced Electronic
 - 📫 How to reach me: On my website you can find my contact info. Don't hesitate to mail me. I still have some social media accounts, but I am not using them anymore.
 
 ### 📚 Published Papers
-I have published four articles in Open Access. Hope to continue writing and sharing my research:
+I have published five articles, most of them in Open Access. Hope to continue writing and sharing my research:
 - 📄 <a href="https://doi.org/10.6036/10145">New generation of automotive mechanical and electronic components: technological challenges for suppliers.</a>
 - 📄 <a href="https://doi.org/10.3390/businesses2020018"> Introducing the Electronic Knowledge Framework into the Traditional Automotive Suppliers’ Industry: From Mechanical Engineering to Mechatronics.</a>
 - 📄 <a href="https://www.thinkmind.org/articles/vehicular_2023_1_90_30035.pdf"> A Holistic Approach on Automotive Cybersecurity for Suppliers.</a>
-- 📄 <a href="https://doi.org/10.3390/s23146345"> Next-Generation Pedal: Integration of Sensors in a Braking Pedal for a Full Brake-by-Wire System .</a>
+- 📄 <a href="https://doi.org/10.3390/s23146345"> Next-Generation Pedal: Integration of Sensors in a Braking Pedal for a Full Brake-by-Wire System.</a>
+- 📄 <a href="https://doi.org/10.1007/978-3-031-59361-1_7"> Improving the Reliability of Automotive Systems.</a>
+
+### 📚 Thesis
+- 📄 <a href="https://jagumiel.xyz/pdfs/PhD_Thesis-JA_Gumiel-EN.pdf"> (PhD) Methodology for the Development of Electronic Actuators and Sensors and their Integration into Mechanical Components for Reliable Automotive Systems.</a>
 
 ### ⚙️ GitHub Analytics
 This are my main languages, it's right. Anyway, don't trust this information completely yet, because I am trying to ignore the all the _C_ auto-generated code from my repositories. The language I use the most is _C_, but others like _VHDL_ or even _Java_ should have had more relevance than which I am showing at this momment.
