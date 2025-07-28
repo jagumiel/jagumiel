@@ -23,6 +23,7 @@ I have published five articles, most of them in Open Access. Hope to continue wr
 - 📄 <a href="https://www.thinkmind.org/articles/vehicular_2023_1_90_30035.pdf"> A Holistic Approach on Automotive Cybersecurity for Suppliers.</a>
 - 📄 <a href="https://doi.org/10.3390/s23146345"> Next-Generation Pedal: Integration of Sensors in a Braking Pedal for a Full Brake-by-Wire System.</a>
 - 📄 <a href="https://doi.org/10.1007/978-3-031-59361-1_7"> Improving the Reliability of Automotive Systems.</a>
+- 📄 <a href="https://doi.org/10.3390/electronics14091809"> Neural Network Implementation for Fire Detection in Critical Infrastructures: A Comparative Analysis on Embedded Edge Devices.</a>
 
 ### 📚 Thesis
 - 📄 <a href="https://jagumiel.xyz/pdfs/PhD_Thesis-JA_Gumiel-EN.pdf"> (PhD) Methodology for the Development of Electronic Actuators and Sensors and their Integration into Mechanical Components for Reliable Automotive Systems.</a>
